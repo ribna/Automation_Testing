@@ -18,17 +18,17 @@ following data should be changed in data.properties file according to local envi
 Google Search (verifyGoogleTestResult.java)
 To execute verifyGoogleTestResult.java below data derived from data.properties file,
 
-googleUrl =  https://www.google.com/ncr
-searchText = Selenium Webdriver
-expectedThirdResult = What is Selenium WebDriver?
-chromeBrowserPath =D:\\Webdriver\\chromedriver_win32\\chromedriver.exe
+- googleUrl =  https://www.google.com/ncr
+- searchText = Selenium Webdriver
+- expectedThirdResult = What is Selenium WebDriver?
+- chromeBrowserPath =D:\\Webdriver\\chromedriver_win32\\chromedriver.exe
 
 **Test Case 2**: 
 
 File loading (verifyFileUpload.java)
 To execute verifyFileUpload.java below data derived from data.properties file,
 
-fileLoadUrl = https://the-internet.herokuapp.com/
-renderedElementText = Hello World!
+- fileLoadUrl = https://the-internet.herokuapp.com/
+- renderedElementText = Hello World!
 
 
