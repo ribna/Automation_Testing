@@ -6,10 +6,10 @@ data.properties file contains all external data.
 following data should be changed in data.properties file according to local environment 
 
 
--chromeBrowserPath =D:\\Webdriver\\chromedriver_win32\\chromedriver.exe
-reportPath =D:\\TestReport\\automation_report.html
-screenshotDirectory = D:\\TestReport\\
-imageFilePath = C:/Users/Reeshan/Pictures/nature.jpg
+- chromeBrowserPath =D:\\Webdriver\\chromedriver_win32\\chromedriver.exe
+- reportPath =D:\\TestReport\\automation_report.html
+- screenshotDirectory = D:\\TestReport\\
+- imageFilePath = C:/Users/Reeshan/Pictures/nature.jpg
 
 
 
