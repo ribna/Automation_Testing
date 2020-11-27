@@ -1,7 +1,7 @@
 # Automation_Testing 
 This repository contains samples for automation test cases. This project created by using selenium webdriver framework.
-Theis project is implemented by using the POM design hence it contains  pages and test scripts. 
-data.properties file contains all external data.
+This project is implemented by using the POM design hence it contains  pages and test scripts. 
+data.properties file contains all external data. This project also generates extent reports along with screenshots for each test steps. 
 
 following data should be changed in data.properties file according to local environment 
 
