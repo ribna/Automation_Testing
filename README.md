@@ -15,7 +15,7 @@ following data should be changed in data.properties file according to local envi
 
 **Test Case 1**: 
 
-Google Search (verifyGoogleTestResult.java)
+Google Search (verifyGoogleTestResult.java).
 To execute verifyGoogleTestResult.java below data derived from data.properties file,
 
 - googleUrl =  https://www.google.com/ncr
